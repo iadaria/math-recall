@@ -1,0 +1,30 @@
+{
+    "author": "",
+    "bundle_format_version": 3,
+    "created": "2026-11-07T14:33:01",
+    "default_background": {
+        "color": "#ff2b2b2b",
+        "grid_color": "#404040",
+        "grid_spacing": 32,
+        "line_spacing": 32,
+        "page_height": 1056,
+        "page_width": 816,
+        "type": "grid"
+    },
+    "last_accessed_page": 0,
+    "last_modified": "2026-11-07T16:35:06",
+    "mode": "paged",
+    "name": "доли",
+    "notebook_id": "e5de56bb-4e33-4744-8dbf-b5a91ef15045",
+    "page_count": 1,
+    "page_metadata": {
+        "9d504fb7-639a-4f64-8e01-2df9348f0dbf": {
+            "height": 1056,
+            "width": 816
+        }
+    },
+    "page_order": [
+        "9d504fb7-639a-4f64-8e01-2df9348f0dbf"
+    ],
+    "pdf_path": ""
+}
